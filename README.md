@@ -6,9 +6,7 @@ Statische, responsive Support-Website für iOS. Keine Abhängigkeiten, kein Buil
 GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root).
 
 ## Vor der App-Store-Einreichung ergänzen
-- In index.html und impressum.html eine echte Support-E-Mail-Adresse samt mailto-Link eintragen, Platzhalterstatus entfernen und FAQ zum Kontakt aktualisieren.
 - In impressum.html vollständige, zutreffende Anbieterangaben ergänzen.
-- In datenschutz.html die tatsächliche Datenverarbeitung der App und den Verantwortlichen ergänzen. Website-Hosting und App-Datenverarbeitung sind getrennt beschrieben.
-- Keine App-Store-Freigabe zugesichert: Kontakt- und Datenschutz-Platzhalter müssen vor Einreichung ersetzt werden.
+- Die Datenschutzerklärung setzt voraus, dass App-Daten ausschließlich lokal gespeichert werden und keine Analyse-, Werbe- oder Tracking-Dienste eingesetzt werden. Vor einer Funktionsänderung aktualisieren.
 
 Dateien direkt im Repository bearbeiten. GitHub Pages veröffentlicht Änderungen auf main automatisch.
